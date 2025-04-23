@@ -1,0 +1,13 @@
+# Python and project-specific ignores
+.env
+__pycache__/
+venv/
+*.pyc
+.DS_Store
+
+# IDE/Editor-specific ignores
+.vscode/
+.idea/
+
+# Streamlit ignores
+.streamlit/

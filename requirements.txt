@@ -1,0 +1,6 @@
+langchain-core
+langchain-community
+python-dotenv
+streamlit
+langserve
+fastapi
